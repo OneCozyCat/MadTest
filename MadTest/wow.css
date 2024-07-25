@@ -1,0 +1,162 @@
+#products{
+    text-align: center;
+    font-size: 25px;
+    color: black;
+}
+
+#Div2{
+    display: flex; 
+    gap: 200px;
+}
+
+.gaps {
+    display: flex;
+    gap: 50px;
+    font-size: 45px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    justify-content: center;
+}
+
+#Title{
+    font-size: 67px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 100px;
+}   
+
+#this{
+    width: 600px;
+    height: 100px;
+}
+
+#p{
+    font-size: 35px;
+    margin-left: 100px;
+
+}
+
+#btn{
+    margin-left: 100px;
+    border-style: ridge;
+    border-color: rgba(168, 44, 36, 0.76);
+    border-block-color: rgba(168, 44, 36, 0.76);
+    background-color: 168, 44, 36, 0.76;
+    width: 210px;
+    height: 40px;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+#that{
+    display: flex;
+    gap: 80px;
+    margin-left: 100px;
+}
+
+#oh{
+    font-size: 29px;
+}
+
+#hi{
+    text-decoration: none;
+    color: black;
+    
+
+}
+
+#hey{
+    text-decoration: none;
+    color: black;
+} 
+
+#sup{
+    text-decoration: none;
+    color: black;
+}
+
+#henlo{
+    text-decoration: none;
+    color: black;
+}
+
+.txt:hover {
+    text-decoration: underline;
+    color: rgb(145, 34, 34);
+    text-decoration-color: rgb(145, 34, 34);
+}
+
+#thisis{
+    display: flex;
+    gap: 200px;
+}
+
+.class {
+    gap: 30px;
+}
+
+#overlap{
+    justify-content: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 36px;
+}
+
+#GFG{
+    width: 210px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(72, 0, 155);
+    color: black;
+    font-size: 35px;
+    cursor: pointer;
+}
+
+#GPG{
+    width: 210px;
+    height: 80px;
+    background-color: rgb(255, 255, 255);
+    border: 5px solid rgb(255, 181, 21);
+    color: black;
+    font-size: 28px;
+    cursor: pointer;
+}
+
+#wowie{
+    display: flex;
+    gap: 50px;
+    margin-left: 100px;
+}
+
+#POP{
+    width: 299px;
+    height: 80px;
+    background-color: rgb(226, 87, 62);
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer; 
+    margin-left: 6px;
+}
+
+.lol:hover{
+    text-decoration-color: darkred;
+    color: darkred;
+    text-decoration: darkred;
+}
+
+#demo{
+font-size: 25px;
+cursor: pointer;
+}
+
+.oppo{
+    justify-content: center;
+}
+
+#why{
+    text-decoration: none;
+    color: white;
+}
+
+
